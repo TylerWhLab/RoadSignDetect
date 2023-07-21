@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::string fileDir = "D:\\Pub\\KCCImageNet\\images\\road_signs\\";
+	std::string fileDir = ".\\images\\road_signs\\";
 
 	std::vector<std::string> filelist;
 	std::vector<std::string> target_list;
